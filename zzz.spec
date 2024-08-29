@@ -1,6 +1,6 @@
 Summary:	A simple program to suspend or hibernate your computer
 Name:		zzz
-Version:	0.1.1
+Version:	0.2.0
 Release:	1
 License:	MIT
 Group:		System/Configuration/Hardware
